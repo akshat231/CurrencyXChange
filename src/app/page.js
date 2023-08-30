@@ -3,7 +3,7 @@ import {BsSearch} from 'react-icons/bs'
 import CurrencyAPI from '@everapi/currencyapi-js';
 import { useEffect,useState } from 'react';
 
-const currencyApi = new CurrencyAPI('cur_live_pPsBBejJmiDxtFRkVaBcBcjNf4zzSEYAJgh2tfm0');
+const currencyApi = new CurrencyAPI('api_key');
 
 
 export default function Home() {
