@@ -2,8 +2,22 @@
 
 CurrencyXChange is a currency exchange comparison app built using Next.js and Tailwind CSS. The app allows users to compare various currencies against the USD and provides a search option to find custom currencies not visible on the screen.
 
+<b>**Normal View**</b>
 
-![Screenshot 2023-08-31 002446](https://github.com/akshat231/CurrencyXChange/assets/56781907/b4680097-70c5-4f7a-b6d3-49a3b2d1ec1a)
+
+![Screenshot 2023-08-31 220439](https://github.com/akshat231/CurrencyXChange/assets/56781907/4829d057-bee3-42cb-b149-34e305f5afa1)
+
+
+<b>Animation View</b>
+
+
+![Screenshot 2023-08-31 220557](https://github.com/akshat231/CurrencyXChange/assets/56781907/e2116a82-b0d6-40ad-8b45-891ce14b102d)
+
+
+<b>Search View</b>
+
+
+
 
 
 ![Screenshot 2023-08-31 002510](https://github.com/akshat231/CurrencyXChange/assets/56781907/b9544dfc-eee2-41fa-b553-384a15f7edfa)
@@ -16,6 +30,7 @@ CurrencyXChange is a currency exchange comparison app built using Next.js and Ta
 - Search option to find custom currencies.
 - Built with Next.js and Tailwind CSS for a modern and responsive user interface.
 - Utilizes the "currencyapi" to fetch currency data.
+- Animation onHover is implemented using GreenSock GSAP library
 
 
 
