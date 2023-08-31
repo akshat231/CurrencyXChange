@@ -32,6 +32,10 @@ CurrencyXChange is a currency exchange comparison app built using Next.js and Ta
 - Utilizes the "currencyapi" to fetch currency data.
 - Animation onHover is implemented using GreenSock GSAP library
 
+## Demo Link
+
+App is deployed on Vercel at https://currencyxchange.vercel.app/
+
 
 
 ## Getting Started
