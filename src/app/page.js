@@ -10,7 +10,7 @@ import inr from '../../public/inr.png'
 import ruble from '../../public/ruble.png'
 import dollar from '../../public/aud.png'
 
-const currencyApi = new CurrencyAPI('cur_live_pPsBBejJmiDxtFRkVaBcBcjNf4zzSEYAJgh2tfm0');
+const currencyApi = new CurrencyAPI('here goes api key');
 
 
 export default function Home() {
